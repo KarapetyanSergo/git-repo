@@ -8,7 +8,14 @@ body{
     height: 480px;
     background-image: url("../img/comp.gif");
     border-radius: 300px;
-    margin: 50px auto;
+    margin: 20px auto;
+}
+
+#click{
+    width: 200px;
+    height: 40px;
+    margin: 0 540px;
+    float: left;
 }
 
 #arrow{
