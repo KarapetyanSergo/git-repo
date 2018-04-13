@@ -22,4 +22,5 @@ body{
 #arrow{
     float: left;
     margin: 80px 78px;
+    -webkit-transition: transform 1.5s;
 }
