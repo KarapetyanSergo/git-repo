@@ -3,18 +3,12 @@ body{
     background-color: #eceff1;
 }
 
-#main{
-    width: 400px;
-    height: 400px;
-    margin: 5% 25%;
-    float: left;
-}
-
 #compass{
     width: 480px;
     height: 480px;
     background-image: url("../img/comp.gif");
     border-radius: 300px;
+    margin: 50px auto;
 }
 
 #arrow{
