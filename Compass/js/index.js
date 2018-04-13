@@ -1,5 +1,5 @@
 jQuery(document).ready(function ($) {
-    $(document).mousemove(function (event) {
+    $("#click").click(function () {
         var head;
         function onSuccess(heading) {
             head = heading.magneticHeading;
